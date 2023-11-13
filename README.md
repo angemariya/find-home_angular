@@ -1,4 +1,4 @@
-# Angular Homes App
+# Angular App to find a flat 
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
