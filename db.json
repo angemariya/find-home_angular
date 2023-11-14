@@ -1,0 +1,94 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "name": "Berlin Residence",
+            "city": "Berlin",
+            "photo": "https://source.unsplash.com/featured/?house,berlin",
+            "availableUnits": 10,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 1,
+            "name": "Munich Heights Apartments",
+            "city": "Munich",
+            "photo": "https://source.unsplash.com/featured/?house,munich",
+            "availableUnits": 8,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 2,
+            "name": "Hamburg View Homes",
+            "city": "Hamburg",
+            "photo": "https://source.unsplash.com/featured/?house,hamburg",
+            "availableUnits": 12,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 3,
+            "name": "Cologne Comfort Residences",
+            "city": "Cologne",
+            "photo": "https://source.unsplash.com/featured/?house,cologne",
+            "availableUnits": 6,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 4,
+            "name": "Frankfurt Skyline Apartments",
+            "city": "Frankfurt",
+            "photo": "https://source.unsplash.com/featured/?house,frankfurt",
+            "availableUnits": 15,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 5,
+            "name": "Stuttgart Serenity Suites",
+            "city": "Stuttgart",
+            "photo": "https://source.unsplash.com/featured/?house,stuttgart",
+            "availableUnits": 7,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 6,
+            "name": "Dusseldorf Delightful Dwellings",
+            "city": "Dusseldorf",
+            "photo": "https://source.unsplash.com/featured/?house,dusseldorf",
+            "availableUnits": 9,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 7,
+            "name": "Leipzig Luxe Living",
+            "city": "Leipzig",
+            "photo": "https://source.unsplash.com/featured/?house,leipzig",
+            "availableUnits": 11,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 8,
+            "name": "Hanover Harmony Homes",
+            "city": "Hanover",
+            "photo": "https://source.unsplash.com/featured/?house,hanover",
+            "availableUnits": 5,
+            "wifi": false,
+            "laundry": false
+        },
+        {
+            "id": 9,
+            "name": "Nuremberg Nest Residences",
+            "city": "Nuremberg",
+            "photo": "https://source.unsplash.com/featured/?house,nuremberg",
+            "availableUnits": 10,
+            "wifi": true,
+            "laundry": true
+        }
+    ]
+}
