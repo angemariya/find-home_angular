@@ -5,7 +5,7 @@ import { HousingLocation } from './housing-location';
   providedIn: 'root'
 })
 export class HousingService {
-  url = 'http://localhost:3000/locations'
+  url = 'https://my-json-server.typicode.com/angemariya/mock-data-homes/locations'
 
   constructor() { }
 
